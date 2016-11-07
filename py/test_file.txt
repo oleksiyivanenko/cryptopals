@@ -1,0 +1,4 @@
+Some test file to encipher
+
+Created by: Oleksiy Ivanenko
+Date: 27.02.16
